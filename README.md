@@ -1,2 +1,2 @@
-# Cliente F12 Desktop
+# F12 Cliente Desktop
 Cliente para o sistema F12
